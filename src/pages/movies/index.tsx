@@ -64,7 +64,7 @@ class Movies extends Component<MoviesState> {
   //   this.setState({ page: page + 1 });
   //   const pagination = page;
   //   this.setState({ index: pagination });
-  //   this.getNowPlaying(pagination);
+  //   await this.getNowPlaying(pagination);
   // }
 
   async getNext() {
@@ -73,7 +73,6 @@ class Movies extends Component<MoviesState> {
     this.setState({ page: pagination, index: pagination }); // Mengubah state page dan index
     await this.getNowPlaying(pagination); // Memanggil getNowPlaying dengan halaman berikutnya
   }
-
 
   componentDidMount(): void {
     const { index } = this.state;
