@@ -1,0 +1,42 @@
+[
+    {
+        "image": "https://via.placeholder.com/300x400?text=Gambar+1",
+        "title": "Baju Dress Floral",
+        "price": 250000
+    },
+    {
+        "image": "https://via.placeholder.com/300x400?text=Gambar+2",
+        "title": "Sepatu Sneakers Putih",
+        "price": 800000
+    },
+    {
+        "image": "https://via.placeholder.com/300x400?text=Gambar+3",
+        "title": "Tas Tote Kulit Hitam",
+        "price": 450000
+    },
+    {
+        "image": "https://via.placeholder.com/300x400?text=Gambar+4",
+        "title": "Kemeja Denim Slim Fit",
+        "price": 350000
+    },
+    {
+        "image": "https://via.placeholder.com/300x400?text=Gambar+4",
+        "title": "Kemeja Denim Slim Fit",
+        "price": 350000
+    },
+    {
+        "image": "https://via.placeholder.com/300x400?text=Gambar+8",
+        "title": "Kemeja Polos Putih",
+        "price": 280000
+    },
+    {
+        "image": "https://via.placeholder.com/300x400?text=Gambar+12",
+        "title": "Kemeja Flanel",
+        "price": 310000
+    },
+    {
+        "image": "https://via.placeholder.com/300x400?text=Gambar+16",
+        "title": "Kemeja Garis-Garis",
+        "price": 260000
+    }
+]
